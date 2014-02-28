@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="EDF63A8F10005591D5F429FA29C3603F988D3A4B">
+
+  <entryPoint>fib_startup</entryPoint>
+
+  <name>FIBONACCI &amp; GOLD NUMBER</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2013a)</createdByMATLABRelease>
+
+  <GUID>cb3bba1f-b28d-47c0-9e6d-993f3a96062e</GUID>
+
+  <author>
+    <name>MathWorks</name>
+    <contact></contact>
+    <organization></organization>
+  </author>
+
+  <supportedPlatforms/>
+
+  <requiredProducts>
+    <product identifier="15" name="Symbolic Math Toolbox" version="5.10"/>
+    <product identifier="1" name="MATLAB" version="8.1"/>
+  </requiredProducts>
+
+  <numFiles>6</numFiles>
+
+  <created>2013-03-19T08:53:21Z</created>
+
+  <appEntries>
+    <appFile>/fib_startup.m</appFile>
+    <appFile>/src/matlab/calculate_for_iterations.m</appFile>
+    <appFile>/src/matlab/calculate_for_precision.m</appFile>
+    <appFile>/src/gui/fibonacci.fig</appFile>
+    <appFile>/src/gui/fibonacci.m</appFile>
+    <appFile>/src/matlab/get_message.m</appFile>
+  </appEntries>
+
+</appProperties>
